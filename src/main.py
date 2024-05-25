@@ -102,6 +102,11 @@ if __name__ == "__main__":
                 versions[version]["latest"] = True
                 break
 
+    # Add an unsupported tag to versions outside of the last 3 major versions
+    for version in version_keys:
+        if version.split(".")[0] not in last_3_major_versions:
+            versions[version]["unsupported"] = True
+
     versions_by_release_date = dict(sorted(versions.items(), key=lambda x: x[1]["release_date"], reverse=True))
 
     with open("macos_versions_by_release_date.json", "w") as f:
