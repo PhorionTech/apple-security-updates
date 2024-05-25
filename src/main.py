@@ -90,6 +90,18 @@ if __name__ == "__main__":
                 "security_updates_url": version.get("security_updates_url")
             })
 
+    version_keys = sorted(list(versions.keys()), reverse=True)
+    last_3_major_versions = sorted(set([version.split(".")[0] for version in version_keys]), reverse=True)[:3]
+
+    # For each major version, find the latest release
+    latest_major_versions = {}
+
+    for major_version in last_3_major_versions:
+        for version in version_keys:
+            if version.startswith(major_version):
+                versions[version]["latest"] = True
+                break
+
     versions_by_release_date = dict(sorted(versions.items(), key=lambda x: x[1]["release_date"], reverse=True))
 
     with open("macos_versions_by_release_date.json", "w") as f:
