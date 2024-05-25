@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    run-main:
+    check:
         runs-on: ubuntu-latest
 
         steps:
@@ -29,6 +29,6 @@ jobs:
                 git config --local user.email "actions@github.com"
                 git config --local user.name "GitHub Actions"
                 git add .
-                git commit -m "[Actions] Check for new macOS versions"
+                git commit -m "[Actions] Check for new macOS versions" || exit 0
                 git push
                 
