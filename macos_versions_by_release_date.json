@@ -156,7 +156,8 @@
         "name": "macOS Big Sur 11.7.10",
         "release_date": "2023-09-11 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213915",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.6.9": {
         "name": "macOS Monterey 12.6.9",
@@ -180,7 +181,8 @@
         "name": "macOS Big Sur 11.7.9",
         "release_date": "2023-07-24 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213845",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.6.8": {
         "name": "macOS Monterey 12.6.8",
@@ -198,7 +200,8 @@
         "name": "macOS Big Sur 11.7.8",
         "release_date": "2023-06-21 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213809",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.6.7": {
         "name": "macOS Monterey 12.6.7",
@@ -228,7 +231,8 @@
         "name": "macOS Big Sur 11.7.7",
         "release_date": "2023-05-18 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213760",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.6.5": {
         "name": "macOS Monterey 12.6.5",
@@ -240,7 +244,8 @@
         "name": "macOS Big Sur 11.7.6",
         "release_date": "2023-04-10 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213725",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "13.3.1": {
         "name": "macOS Ventura 13.3.1",
@@ -264,13 +269,15 @@
         "name": "macOS Big Sur 11.7.5",
         "release_date": "2023-03-27 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213675",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.7.4": {
         "name": "macOS Big Sur 11.7.4",
         "release_date": "2023-02-15 00:00:00",
         "security_updates_url": null,
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "13.2.1": {
         "name": "macOS Ventura 13.2.1",
@@ -288,7 +295,8 @@
         "name": "macOS Big Sur 11.7.3",
         "release_date": "2023-01-23 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213603",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.6.3": {
         "name": "macOS Monterey 12.6.3",
@@ -306,7 +314,8 @@
         "name": "macOS Big Sur 11.7.2",
         "release_date": "2022-12-13 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213534",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.6.2": {
         "name": "macOS Monterey 12.6.2",
@@ -336,13 +345,15 @@
         "name": "macOS Big Sur 11.7.1",
         "release_date": "2022-10-24 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213493",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.7.0": {
         "name": "macOS Big Sur 11.7",
         "release_date": "2022-09-12 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213443",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.6.0": {
         "name": "macOS Monterey 12.6",
@@ -366,13 +377,15 @@
         "name": "macOS Big Sur 11.6.8",
         "release_date": "2022-07-20 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213344",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.6.7": {
         "name": "macOS Big Sur 11.6.7",
         "release_date": "2022-06-09 00:00:00",
         "security_updates_url": null,
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.4.0": {
         "name": "macOS Monterey 12.4",
@@ -384,7 +397,8 @@
         "name": "macOS Big Sur 11.6.6",
         "release_date": "2022-05-16 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213256",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.3.1": {
         "name": "macOS Monterey 12.3.1",
@@ -402,13 +416,15 @@
         "name": "macOS Big Sur 11.6.5",
         "release_date": "2022-03-14 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213184",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.6.4": {
         "name": "macOS Big Sur 11.6.4",
         "release_date": "2022-02-14 00:00:00",
         "security_updates_url": null,
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.2.1": {
         "name": "macOS Monterey 12.2.1",
@@ -426,13 +442,15 @@
         "name": "macOS Big Sur 11.6.3",
         "release_date": "2022-01-26 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT213055",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.6.2": {
         "name": "macOS Big Sur 11.6.2",
         "release_date": "2021-12-13 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212979",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.1.0": {
         "name": "macOS Monterey 12.1",
@@ -444,7 +462,8 @@
         "name": "macOS Big Sur 11.6.1",
         "release_date": "2021-10-25 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212872",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "12.0.1": {
         "name": "macOS Monterey 12.0.1 (Advisory includes security content of macOS Monterey 12.0 and macOS Monterey 12.0.1)",
@@ -456,73 +475,85 @@
         "name": "macOS Big Sur 11.6",
         "release_date": "2021-09-13 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212804",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.5.2": {
         "name": "macOS Big Sur 11.5.2",
         "release_date": "2021-08-11 00:00:00",
         "security_updates_url": null,
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.5.1": {
         "name": "macOS Big Sur 11.5.1",
         "release_date": "2021-07-26 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212622",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.5.0": {
         "name": "macOS Big Sur 11.5",
         "release_date": "2021-07-21 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212602",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.4.0": {
         "name": "macOS Big Sur 11.4",
         "release_date": "2021-05-24 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212529",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.3.1": {
         "name": "macOS Big Sur 11.3.1",
         "release_date": "2021-05-03 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212335",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.3.0": {
         "name": "macOS Big Sur 11.3",
         "release_date": "2021-04-26 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212325",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.2.3": {
         "name": "macOS Big Sur 11.2.3",
         "release_date": "2021-03-08 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212220",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.2.2": {
         "name": "macOS Big Sur 11.2.2",
         "release_date": "2021-02-25 00:00:00",
         "security_updates_url": null,
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.2.1": {
         "name": "macOS Big Sur 11.2.1, macOS Catalina 10.15.7 Supplemental Update, macOS Mojave 10.14.6 Security Update 2021-002",
         "release_date": "2021-02-09 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212177",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.2.0": {
         "name": "macOS Big Sur 11.2, Security Update 2021-001 Catalina, Security Update 2021-001 Mojave",
         "release_date": "2021-02-01 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212147",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.1.0": {
         "name": "macOS Big Sur 11.1, Security Update 2020-001 Catalina, Security Update 2020-007 Mojave",
         "release_date": "2020-12-14 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT212011",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "11.0.1": {
         "name": "macOS Big Sur 11.0.1 (Advisory includes security content of macOS Big Sur 11.0 and macOS Big Sur 11.0.1)",
@@ -534,13 +565,15 @@
                 "release_date": "2020-11-17 00:00:00",
                 "security_updates_url": "https://support.apple.com/kb/HT211982"
             }
-        ]
+        ],
+        "unsupported": true
     },
     "10.14.6": {
         "name": "macOS 10.14.6 Supplemental Update",
         "release_date": "2020-10-01 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT211872",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     },
     "10.15.7": {
         "name": "macOS Catalina 10.15.7, Security Update 2020-005 High Sierra, Security Update 2020-005 Mojave",
@@ -552,7 +585,8 @@
                 "release_date": "2020-11-05 00:00:00",
                 "security_updates_url": "https://support.apple.com/kb/HT211947"
             }
-        ]
+        ],
+        "unsupported": true
     },
     "10.15.6": {
         "name": "macOS Catalina 10.15.6, Security Update 2020-004 Mojave, Security Update 2020-004 High Sierra",
@@ -564,7 +598,8 @@
                 "release_date": "2020-08-12 00:00:00",
                 "security_updates_url": null
             }
-        ]
+        ],
+        "unsupported": true
     },
     "10.15.5": {
         "name": "macOS Catalina 10.15.5, Security Update 2020-003 Mojave, Security Update 2020-003 High Sierra",
@@ -576,7 +611,8 @@
                 "release_date": "2020-06-01 00:00:00",
                 "security_updates_url": "https://support.apple.com/kb/HT211215"
             }
-        ]
+        ],
+        "unsupported": true
     },
     "10.15.4": {
         "name": "macOS Catalina 10.15.4, Security Update 2020-002 Mojave, Security Update 2020-002 High Sierra",
@@ -588,12 +624,14 @@
                 "release_date": "2020-04-08 00:00:00",
                 "security_updates_url": null
             }
-        ]
+        ],
+        "unsupported": true
     },
     "10.15.3": {
         "name": "macOS Catalina 10.15.3, Security Update 2020-001 Mojave, Security Update 2020-001 High Sierra",
         "release_date": "2020-01-28 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT210919",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "unsupported": true
     }
 }
