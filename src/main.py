@@ -102,3 +102,5 @@ if __name__ == "__main__":
     with open("macos_versions_by_version_number.json", "w") as f:
         json.dump(versions_by_version_number, f, indent=4, default=str)
 
+    print("Output written to macos_versions_by_version_number.json")
+
