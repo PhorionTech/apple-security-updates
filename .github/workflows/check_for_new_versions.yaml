@@ -1,0 +1,30 @@
+name: Check for new versions
+
+on:
+    schedule:
+        - cron: "0 */12 * * *"
+
+jobs:
+    run-main:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Set up Python
+              uses: actions/setup-python@v2
+              with:
+                python-version: 3.x
+
+            - name: Run main.py
+              run: python src/main.py
+
+            - name: Commit and push if there are changes
+              run: |
+                git config --local user.email "actions@github.com"
+                git config --local user.name "GitHub Actions"
+                git add .
+                git commit -m "[Actions] Check for new macOS versions"
+                git push
+                
