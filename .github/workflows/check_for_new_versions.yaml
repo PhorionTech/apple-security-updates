@@ -18,6 +18,9 @@ jobs:
               with:
                 python-version: 3.x
 
+            - name: Install dependencies
+              run: pip3 install -r requirements.txt
+
             - name: Run main.py
               run: python src/main.py
 
