@@ -3,7 +3,8 @@
         "name": "macOS Sonoma 14.5",
         "release_date": "2024-05-13 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT214106",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "latest": true
     },
     "14.4.1": {
         "name": "macOS Sonoma 14.4.1",
@@ -69,7 +70,8 @@
         "name": "macOS Ventura 13.6.7",
         "release_date": "2024-05-13 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT214107",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "latest": true
     },
     "13.6.6": {
         "name": "macOS Ventura 13.6.6",
@@ -189,7 +191,8 @@
         "name": "macOS Monterey 12.7.5",
         "release_date": "2024-05-13 00:00:00",
         "security_updates_url": "https://support.apple.com/kb/HT214105",
-        "supplemental_updates": []
+        "supplemental_updates": [],
+        "latest": true
     },
     "12.7.4": {
         "name": "macOS Monterey 12.7.4",
